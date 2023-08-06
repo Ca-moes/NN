@@ -1,0 +1,19 @@
+a description of the solution implemented by the project team;
+a description of experimental results;
+a discussion comparing your results with previous results from the literature (if any);
+a conclusion; and
+
+Solution implemented:
+Trnasfer learning of 4 models, evaluating with data set from kaggle. Data set was modified 
+to be 5, 10, 15 classes and different images sizes and blurriness
+
+Explain Notebooks and overview of what is done in each
+
+Results: 
+- What were the results
+- What was expected
+- Compared with literature
+
+Conclusion
+
+
